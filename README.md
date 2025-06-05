@@ -18,3 +18,6 @@ Then, open the notebook and select the `icerm_population_tutorial` conda environ
 Alternatively, you can run on google colab and potentially make use of GPU or TPU speedups. Open the notebook in google colab here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afarah18/HBA-for-GWs-tutorial/blob/main/intro_HBA_tutorial.ipynb)
 
 Then, connect to a runtime (try to get a GPU or TPU!) and uncomment the lines in the first cell.
+
+## answers
+Once you're done, you can check your work by looking at [intro_HBA_tutorial_filled_in.ipynb](intro_HBA_tutorial_filled_in.ipynb)
