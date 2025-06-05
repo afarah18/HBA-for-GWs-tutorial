@@ -12,7 +12,7 @@ conda env create -f environment.yml
 ```
 Then, open the notebook and select the `icerm_population_tutorial` conda environenment as your kernel.
 
-**Note:** you have everything in [`requirements.txt`][requirements.txt`] installed in a different environment, you can skip the conda environment creation and just use your own environment.
+**Note:** you have everything in [`requirements.txt`](requirements.txt) installed in a different environment, you can skip the conda environment creation and just use your own environment.
 
 ### Google colab
 Alternatively, you can run on google colab and potentially make use of GPU or TPU speedups. Open the notebook in google colab here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afarah18/HBA-for-GWs-tutorial/blob/main/intro_HBA_tutorial.ipynb)
